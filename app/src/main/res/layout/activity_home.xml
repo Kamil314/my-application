@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:id="@+id/findoutButton"
-        android:text="@string/find_out"
+        android:text="@string/find_out_bitch"
         android:textColor="#300B7A"
         android:backgroundTint="@android:color/black"
         android:layout_below="@id/infoText"
